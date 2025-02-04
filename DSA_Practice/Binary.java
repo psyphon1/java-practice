@@ -21,8 +21,8 @@ public class Binary {
     return -1;
     }
     public static void main(String args []){
-        int num[] = {1,2,3,4,5};
-        int key = 5;
+        int num[] = {1,2,3,4,5,6,7,8,9,10};
+        int key = 8;
 
         int result = binarySearch(num, key);
         if(num!=null && num.length!=0){
@@ -40,3 +40,10 @@ public class Binary {
         
     }
 }
+
+/*
+OUTPUT: 
+
+The Key is found at 7
+
+ */
