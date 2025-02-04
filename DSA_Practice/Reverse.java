@@ -1,6 +1,4 @@
 
-
-
 public class Reverse {
 
     public static void rev(int nums[]) {
@@ -32,3 +30,9 @@ public class Reverse {
         }
     }
 }
+/*
+OUTPUT:
+
+5 4 3 2 1 
+
+ */
