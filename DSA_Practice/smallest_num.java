@@ -19,3 +19,6 @@ public class smallest_num {
         findSmallest();
     }
 }
+
+// OUTPUT : 
+// Smallest is 1
