@@ -20,3 +20,10 @@ public class largest_num {
         findLargest();
     }
 }
+
+/*
+OUTPUT:
+
+Largest is 54
+
+ */
